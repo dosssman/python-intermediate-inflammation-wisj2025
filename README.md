@@ -16,3 +16,7 @@ Several tests have been implemented already, some of which are currently failing
 These failing tests set out the requirements for the additional code to be implemented during the workshop.
 
 The tests should be run using `pytest`, which will be introduced during the workshop.
+
+
+#Feedback
+I like the hands-on kinda lecture!
