@@ -1,13 +1,21 @@
 # Introduction
 
+# Rebel changes !!!
+
 This is a template software project repository used by the [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development).
+Lorem ispum tangara ta
+
+## Forcing conflicts here
+I don't want pease, I want trouble.
 
 ## Purpose
+Testing to create a merge conflict
 
 This repository is intended to be used as an example software project which is copied by learners of the 
 [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development) course.
 
 This software project is not finished, does not contain a LICENCE file, the code is currently failing to run and contains some code style issues. 
+Seme other random lines that should not work.
 It is used as a starting point for the course - issues will be fixed and code will be added in a number of places during the course by learners in their own copies of the repository, as course topics are introduced.
 
 ## Tests
@@ -17,4 +25,13 @@ These failing tests set out the requirements for the additional code to be imple
 
 The tests should be run using `pytest`, which will be introduced during the workshop.
 
-# Here is Wenyu Speaking
+**Sample command**:
+```python
+pip install pytest
+python -m pytest tests/test_models.py
+```
+
+# Feedback
+I like the hands-on kinda lecture!
+
+Thanks a lot for today's wonderful lecture!

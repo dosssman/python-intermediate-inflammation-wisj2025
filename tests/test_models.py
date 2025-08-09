@@ -29,9 +29,33 @@ def test_daily_mean_integers():
     # Need to use Numpy testing functions to compare arrays
     npt.assert_array_equal(daily_mean(test_input), test_result)
 
-def test_daily_max():
+def test_daily_max_wenyu():
     ''' Test that max function works 
     '''
     test_input = np.array([[1,2],[3,4],[5,6]])
     test_result = np.array([5,6])
     npt.assert_array_equal(daily_max(test_input), test_result)
+
+def test_daily_max():
+
+    """Test that mean function works for an array of positive integers."""
+
+    test_input = np.array([[4, 2],
+                           [3, 4],
+                           [5, ]])
+    test_result = np.array([7, 4])
+
+    # Need to use Numpy testing functions to compare arrays
+    npt.assert_array_equal(daily_mean(test_input), test_result)
+
+ def test_daily_max_original():  
+    """
+        Test the max function for float integers
+    """
+    test_input = np.array([[3.14, -0.25],
+                           [1   , 16],
+                           [2   , 0]])
+    test_result = np.array([3.14, 16])
+
+    npt.assert_array_equal(daily_max(test_input), test_result)
+
