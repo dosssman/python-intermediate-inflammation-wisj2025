@@ -2,6 +2,9 @@
 
 This is a template software project repository used by the [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development).
 
+## Forcing conflicts here
+I don't want pease, I want trouble.
+
 ## Purpose
 
 This repository is intended to be used as an example software project which is copied by learners of the 
