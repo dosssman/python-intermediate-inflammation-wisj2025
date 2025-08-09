@@ -30,3 +30,7 @@ The tests should be run using `pytest`, which will be introduced during the work
 pip install pytest
 python -m pytest tests/test_models.py
 ```
+
+# Feedback
+I like the hands-on kinda lecture!
+
