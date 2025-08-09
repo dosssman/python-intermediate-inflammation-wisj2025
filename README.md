@@ -5,6 +5,9 @@
 This is a template software project repository used by the [Intermediate Research Software Development Skills In Python](https://github.com/carpentries-incubator/python-intermediate-development).
 Lorem ispum tangara ta
 
+## Forcing conflicts here
+I don't want pease, I want trouble.
+
 ## Purpose
 Testing to create a merge conflict
 
