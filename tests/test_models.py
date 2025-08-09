@@ -39,3 +39,14 @@ def test_daily_max():
     test_result = np.array([3.14, 16])
 
     npt.assert_array_equal(daily_max(test_input), test_result)
+
+def test_daily_min():
+    """
+        Test the max function for float integers
+    """
+    test_input = np.array([[3.14, -0.25],
+                           [1   , 16],
+                           [2   , 0]])
+    test_result = np.array([3.14, 16])
+
+    npt.assert_array_equal(daily_max(test_input), test_result)
