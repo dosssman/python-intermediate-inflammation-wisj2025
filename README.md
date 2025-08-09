@@ -16,3 +16,9 @@ Several tests have been implemented already, some of which are currently failing
 These failing tests set out the requirements for the additional code to be implemented during the workshop.
 
 The tests should be run using `pytest`, which will be introduced during the workshop.
+
+**Sample command**:
+```python
+pip install pytest
+python -m pytest tests/test_models.py
+```
