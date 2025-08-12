@@ -32,6 +32,8 @@ python -m pytest tests/test_models.py
 ```
 
 # Feedback
-I like the hands-on kinda lecture!
+- I like the hands-on kinda lecture!
 
-Thanks a lot for today's wonderful lecture!
+- Thanks a lot for today's wonderful lecture!
+
+- Thank you for the interesting lecture this afternoon!

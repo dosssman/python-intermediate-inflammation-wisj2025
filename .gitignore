@@ -13,9 +13,8 @@
 *.egg-info
 .pytest_cache
 
-# Virtual environment
+# virtual env
 venv
 
 # No jupyter notebook
 *.ipynb
-
